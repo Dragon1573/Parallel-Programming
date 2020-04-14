@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30001.183
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trapzoid", "Trapzoid\Trapzoid.vcxproj", "{CF313294-50FF-4BBB-9BF6-E476C254B866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF313294-50FF-4BBB-9BF6-E476C254B866}.Debug|x64.ActiveCfg = Debug|x64
+		{CF313294-50FF-4BBB-9BF6-E476C254B866}.Debug|x64.Build.0 = Debug|x64
+		{CF313294-50FF-4BBB-9BF6-E476C254B866}.Release|x64.ActiveCfg = Release|x64
+		{CF313294-50FF-4BBB-9BF6-E476C254B866}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2ECDC3A-7831-4B8E-9AAE-98A00ED93207}
+	EndGlobalSection
+EndGlobal
