@@ -51,6 +51,12 @@ void multiplication(const int threads, const long long r, const long long c,
 
 int main(int argc, const char *argv[])
 {
+    if (argc < 2)
+    {
+        fprintf(stderr, "用法：Experiment4-2.exe <线程数量>\n\n");
+        return EXIT_FAILURE;
+    }
+
     // 线程数量
     const int threads = atoi(argv[1]);
     // 矩阵行数
